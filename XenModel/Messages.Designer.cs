@@ -27094,7 +27094,7 @@ namespace XenAdmin {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to TODO: Local Storage Blurb.
+        ///   Looks up a localized string similar to Select this option to create a local storage repository..
         /// </summary>
         public static string NEWSR_LOCALSTORAGE_BLURB {
             get {

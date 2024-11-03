@@ -15240,7 +15240,7 @@ Do you want to synchronize immediately?</value>
     <value>Rev: {0} BuildLab: {1}-{2}-{3}</value>
   </data>
   <data name="NEWSR_LOCALSTORAGE_BLURB" xml:space="preserve">
-    <value>TODO: Local Storage Blurb</value>
+    <value>Select this option to create a local storage repository.</value>
   </data>
   <data name="NEWSR_LOCALSTORAGE_TYPE_NAME" xml:space="preserve">
     <value>Local Storage</value>
