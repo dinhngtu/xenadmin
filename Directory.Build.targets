@@ -90,8 +90,4 @@ internal partial class ThisAssembly
 		<Codename>Medicine Hat</Codename>
 		<Lab>xcpngcenter_main</Lab>
 	</PropertyGroup>
-
-	<PropertyGroup>
-		<RestoreSources>$(RestoreSources);../Packages;https://api.nuget.org/v3/index.json</RestoreSources>
-	</PropertyGroup>
 </Project>
